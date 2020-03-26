@@ -1,0 +1,3 @@
+Music name: Mine_Diamonds
+Music length: 237
+Music difficulty: 1.0255413471272474
