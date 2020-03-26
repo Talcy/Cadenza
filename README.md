@@ -1,2 +1,5 @@
 # Cadenza
-A rhythm game made for 9th grade Java class. 
+Jave music game project
+
+\Cadenza : java game.
+\MusicVisualConvertor : python program for converting mp3 to wav, and generate freq data for display.
